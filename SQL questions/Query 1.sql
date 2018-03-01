@@ -1,0 +1,1 @@
+SELECT SUBSTRING(Full_MFG_Name,CHARINDEX('|',Full_MFG_Name)+2,LEN(Full_MFG_Name)) AS MFG_Name FROM tableA;

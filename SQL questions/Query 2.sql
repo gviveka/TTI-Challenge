@@ -1,0 +1,1 @@
+SELECT SUM(Quantity*Unit_Price) AS Total_Revenue  FROM tableB
