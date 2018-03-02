@@ -7,5 +7,5 @@ varaince.
 
 #Cluster
 
-The Cluster file is an attempt to build the cluster from scratch as a code is requested. But it is no quite complete in terms of complexity.
+The Cluster file is an attempt to build the cluster from scratch as a code is requested. But it is not quite complete in terms of complexity.
 I will update it with progress.
